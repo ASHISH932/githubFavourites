@@ -29,6 +29,6 @@ $ yarn start
     ├── dist                    # Compiled files
     ├── server                  # Node Js app server
     ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── package.json            # Automated tests (alternatively `spec` or `tests`)
+    ├── package.json            
     ├── webpoack.config.json
     └── README.md
